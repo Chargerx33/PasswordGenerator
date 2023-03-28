@@ -1,0 +1,8 @@
+C:\Users\wd11\source\repos\PasswortGenerator\PasswortGenerator\obj\Debug\PasswortGenerator.csproj.AssemblyReference.cache
+C:\Users\wd11\source\repos\PasswortGenerator\PasswortGenerator\obj\Debug\PasswortGenerator.csproj.SuggestedBindingRedirects.cache
+C:\Users\wd11\source\repos\PasswortGenerator\PasswortGenerator\obj\Debug\PasswortGenerator.csproj.CoreCompileInputs.cache
+C:\Users\wd11\source\repos\PasswortGenerator\PasswortGenerator\bin\Debug\PasswortGenerator.exe.config
+C:\Users\wd11\source\repos\PasswortGenerator\PasswortGenerator\bin\Debug\PasswortGenerator.exe
+C:\Users\wd11\source\repos\PasswortGenerator\PasswortGenerator\bin\Debug\PasswortGenerator.pdb
+C:\Users\wd11\source\repos\PasswortGenerator\PasswortGenerator\obj\Debug\PasswortGenerator.exe
+C:\Users\wd11\source\repos\PasswortGenerator\PasswortGenerator\obj\Debug\PasswortGenerator.pdb
